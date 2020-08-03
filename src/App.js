@@ -35,7 +35,6 @@ class App extends React.Component {
         <LastUpdate data={data} />
         <SocialMedia/>
         <Footer />
-        {/* <Chart data={data} country={country} />  */}
       </div> 
     );
   }
